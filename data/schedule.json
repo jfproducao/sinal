@@ -1,0 +1,36 @@
+{
+  "morning": [
+    { "time": "07:00", "name": "Entrada", "duration": 5 },
+    { "time": "07:05", "name": "1ª Aula", "duration": 45 },
+    { "time": "07:50", "name": "2ª Aula", "duration": 45 },
+    { "time": "08:35", "name": "Intervalo", "duration": 20 },
+    { "time": "08:55", "name": "3ª Aula", "duration": 45 },
+    { "time": "09:40", "name": "4ª Aula", "duration": 45 },
+    { "time": "10:25", "name": "Intervalo", "duration": 15 },
+    { "time": "10:40", "name": "5ª Aula", "duration": 45 },
+    { "time": "11:25", "name": "6ª Aula", "duration": 45 },
+    { "time": "12:10", "name": "Saída", "duration": 5 }
+  ],
+  "afternoon": [
+    { "time": "13:00", "name": "Entrada", "duration": 5 },
+    { "time": "13:05", "name": "1ª Aula", "duration": 45 },
+    { "time": "13:50", "name": "2ª Aula", "duration": 45 },
+    { "time": "14:35", "name": "Intervalo", "duration": 20 },
+    { "time": "14:55", "name": "3ª Aula", "duration": 45 },
+    { "time": "15:40", "name": "4ª Aula", "duration": 45 },
+    { "time": "16:25", "name": "Intervalo", "duration": 15 },
+    { "time": "16:40", "name": "5ª Aula", "duration": 45 },
+    { "time": "17:25", "name": "6ª Aula", "duration": 45 },
+    { "time": "18:10", "name": "Saída", "duration": 5 }
+  ],
+  "afternoonFriday": [
+    { "time": "13:00", "name": "Entrada", "duration": 5 },
+    { "time": "13:05", "name": "1ª Aula", "duration": 40 },
+    { "time": "13:45", "name": "2ª Aula", "duration": 40 },
+    { "time": "14:25", "name": "Intervalo", "duration": 15 },
+    { "time": "14:40", "name": "3ª Aula", "duration": 40 },
+    { "time": "15:20", "name": "4ª Aula", "duration": 40 },
+    { "time": "16:00", "name": "5ª Aula", "duration": 40 },
+    { "time": "16:40", "name": "Saída", "duration": 5 }
+  ]
+}
