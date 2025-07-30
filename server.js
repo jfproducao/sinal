@@ -54,7 +54,8 @@ app.delete('/api/schedule/:dia/:hora', (req, res) => {
       return res.status(404).json({ error: `Dia '${dia}' não encontrado` });
     }
 
-    schedule[dia] = schedule[dia].filter(h => h !== hora);
+    schedule[dia] = schedule[dia].filter(h => h.time !== hora);
+
 
     fs.writeFile(scheduleFilePath, JSON.stringify(schedule, null, 2), 'utf8', err => {
       if (err) return res.status(500).json({ error: 'Erro ao salvar o arquivo' });
