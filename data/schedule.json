@@ -1,15 +1,20 @@
 {
   "morning": [
-    { "time": "07:00", "name": "Entrada"},
-    { "time": "07:05", "name": "1ª Aula"},
-    { "time": "07:50", "name": "2ª Aula"},
-    { "time": "08:35", "name": "Intervalo"},
-    { "time": "08:55", "name": "3ª Aula"},
-    { "time": "09:40", "name": "4ª Aula"},
-    { "time": "10:25", "name": "Intervalo"},
-    { "time": "10:40", "name": "5ª Aula"},
-    { "time": "11:25", "name": "6ª Aula"},
-    { "time": "12:10", "name": "Saída"}
+    { "time": "07:10", "name": "Entrada 6° ao Ensino Médio " },
+    { "time": "07:20", "name": "Entrada 2° ao 5° Ano" },
+    { "time": "08:00", "name": "2ª Aula: 6° ao Ensino Médio " },
+    { "time": "08:10", "name": "2° Aula: 2° ao 5° Ano" },
+    { "time": "08:50", "name": "3ª Aula: 6° ao Ensino Médio " },
+    { "time": "09:00", "name": "INTERVALO 2° AO 5° ANO" },
+    { "time": "09:20", "name": "3° Aula: 2° ao 5° Ano" },
+    { "time": "09:40", "name": "INTERVALO 6° AO ENSINO MÉDIO " },
+    { "time": "10:00", "name": "4ª Aula: 6° ao Ensino Médio " },
+    { "time": "10:10", "name": "4° Aula: 2° ao 5° Ano" },
+    { "time": "10:50", "name": "5° Aula: 6° ao Ensino Médio " },
+    { "time": "11:00", "name": "5° Aula: 2° ao 5° Ano" },
+    { "time": "11:40", "name": "6° Aula: 6° Ao Ensino Médio - SAÍDA 6° AO 9° ANO" },
+    { "time": "11:50", "name": "SAÍDA: 2° AO 5° ANO" },
+    { "time": "12:30", "name": "SAÍDA ENSINO MÉDIO " }
   ],
   "afternoon": [
     { "time": "13:00", "name": "Entrada Ensino Médio " },
@@ -31,13 +36,13 @@
     { "time": "18:20", "name": "SAÍDA: ENSINO MÉDIO " }
   ],
   "afternoonFriday": [
-    { "time": "13:00", "name": "Entrada"},
-    { "time": "13:05", "name": "1ª Aula"},
-    { "time": "13:45", "name": "2ª Aula"},
-    { "time": "14:25", "name": "Intervalo"},
-    { "time": "14:40", "name": "3ª Aula"},
-    { "time": "15:20", "name": "4ª Aula"},
-    { "time": "16:00", "name": "5ª Aula"},
-    { "time": "16:40", "name": "Saída"}
+    { "time": "13:00", "name": "Entrada" },
+    { "time": "13:05", "name": "1ª Aula" },
+    { "time": "13:45", "name": "2ª Aula" },
+    { "time": "14:25", "name": "Intervalo" },
+    { "time": "14:40", "name": "3ª Aula" },
+    { "time": "15:20", "name": "4ª Aula" },
+    { "time": "16:00", "name": "5ª Aula" },
+    { "time": "16:40", "name": "Saída" }
   ]
 }
