@@ -91,7 +91,7 @@
       "duration": 10
     }
   ],
-  "afternoon": [
+  "tarde": [
     {
       "time": "13:00",
       "name": "Entrada Ensino Médio ",
@@ -100,7 +100,7 @@
     },
     {
       "time": "13:20",
-      "name": "Entrada: 2° ao 9° Ano",
+      "name": "Entrada: 2° a 9° Ano",
       "music": "musica1.mp3",
       "duration": 10
     },
@@ -195,7 +195,7 @@
       "duration": 10
     }
   ],
-  "afternoonFriday": [
+  "tardeFriday": [
     {
       "time": "13:00",
       "name": "ENTRADA Ensino Médio ",
@@ -207,6 +207,84 @@
       "name": "Entrada 2° ao 9° Ano",
       "music": "musica1.mp3",
       "duration": 10
+    },
+    {
+      "time": "13:40",
+      "name": "2° Aula: Ensino Médio ",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "14:00",
+      "name": "2° Aula: 2° ao 9° Ano",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "14:20",
+      "name": "3° Aula: Ensino Médio ",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "14:40",
+      "name": "3° Aula: 6° ao 9° Ano - INTERVALO 2° AO 5° ANO",
+      "music": "musica3.mp3",
+      "duration": 10
+    },
+    {
+      "time": "15:00",
+      "name": "INTERVALO ENSINO MÉDIO ",
+      "music": "musica3.mp3",
+      "duration": 10
+    },
+    {
+      "time": "15:10",
+      "name": "4° Aula: Ensino Médio ",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "15:20",
+      "name": "INTERVALO 6° AO 9° ANO ",
+      "music": "musica3.mp3",
+      "duration": 10
+    },
+    {
+      "time": "15:30",
+      "name": "4° Aula: 2° ao 9° Ano",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "15:40",
+      "name": "5° Aula: Ensino Médio ",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "16:00",
+      "name": "5° Aula: 2° ao 9° Ano",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "16:10",
+      "name": "6° Aula: Ensino Médio ",
+      "music": "musica2.mp3",
+      "duration": 5
+    },
+    {
+      "time": "16:30",
+      "name": "SAÍDA: 2° AO 9° ANO",
+      "music": "musica1.mp3",
+      "duration": 10
+    },
+    {
+      "time": "16:40",
+      "name": "SAÍDA: ENSINO MÉDIO ",
+      "música": "musica1.mp3",
+      "duração": 10
     }
   ]
 }
