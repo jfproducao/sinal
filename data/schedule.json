@@ -91,7 +91,7 @@
       "duration": 10
     }
   ],
-  "tarde": [
+  "afternoon": [
     {
       "time": "13:00",
       "name": "Entrada Ensino Médio ",
@@ -195,7 +195,7 @@
       "duration": 10
     }
   ],
-  "tardeFriday": [
+  "afternoonFriday": [
     {
       "time": "13:00",
       "name": "ENTRADA Ensino Médio ",
