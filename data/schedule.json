@@ -4,13 +4,13 @@
       "time": "07:10",
       "name": "Entrada 6° ao Ensino Médio ",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "07:20",
       "name": "Entrada 2° ao 5° Ano",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "08:00",
@@ -34,7 +34,7 @@
       "time": "09:00",
       "name": "INTERVALO 2° AO 5° ANO",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "09:20",
@@ -46,7 +46,7 @@
       "time": "09:40",
       "name": "INTERVALO 6° AO ENSINO MÉDIO ",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "10:00",
@@ -76,19 +76,19 @@
       "time": "11:40",
       "name": "6° Aula: 6° Ao Ensino Médio - SAÍDA 6° AO 9° ANO",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "11:50",
       "name": "SAÍDA: 2° AO 5° ANO",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "12:30",
       "name": "SAÍDA ENSINO MÉDIO ",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     }
   ],
   "afternoon": [
@@ -96,13 +96,13 @@
       "time": "13:00",
       "name": "Entrada Ensino Médio ",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "13:20",
       "name": "Entrada: 2° a 9° Ano",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "13:50",
@@ -126,7 +126,7 @@
       "time": "15:00",
       "name": "INTERVALO - 2° AO 5° ANO",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "15:00",
@@ -144,13 +144,13 @@
       "time": "15:30",
       "name": "INTERVALO ENSINO MÉDIO ",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "15:50",
       "name": "INTERVALO 6° AO 9° ANO",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "15:50",
@@ -186,13 +186,13 @@
       "time": "17:50",
       "name": "SAÍDA: 2° AO 9° ANO",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "18:20",
       "name": "SAÍDA: ENSINO MÉDIO ",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     }
   ],
   "afternoonFriday": [
@@ -200,13 +200,13 @@
       "time": "13:00",
       "name": "ENTRADA Ensino Médio ",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "13:20",
       "name": "Entrada 2° ao 9° Ano",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "13:40",
@@ -230,13 +230,13 @@
       "time": "14:40",
       "name": "3° Aula: 6° ao 9° Ano - INTERVALO 2° AO 5° ANO",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "15:00",
       "name": "INTERVALO ENSINO MÉDIO ",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "15:10",
@@ -248,7 +248,7 @@
       "time": "15:20",
       "name": "INTERVALO 6° AO 9° ANO ",
       "music": "musica3.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "15:30",
@@ -278,13 +278,13 @@
       "time": "16:30",
       "name": "SAÍDA: 2° AO 9° ANO",
       "music": "musica1.mp3",
-      "duration": 10
+      "duration": 8
     },
     {
       "time": "16:40",
       "name": "SAÍDA: ENSINO MÉDIO ",
       "música": "musica1.mp3",
-      "duração": 10
+      "duração": 8
     }
   ]
 }
