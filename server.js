@@ -7,7 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(cors());
-app.use(express.json()); // Necessário para ler JSON no corpo da requisição
+app.use(express.json());
 
 // Caminho para o arquivo JSON
 const scheduleFilePath = path.join(__dirname, 'data', 'schedule.json');
